@@ -1,0 +1,59 @@
+body {
+  background-color: #e4e4e4;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+  background-color: #fff;
+}
+
+.header {
+    background-color: #fff;
+}
+
+.top-logo {
+    max-width: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custom-container {
+    padding-top: 70px;
+    padding-bottom: 50px;
+    width: 100%;
+    max-width: 1366px;
+    background-color: #e4e4e4;
+}
+
+.nunito-font {
+    font-family: nunito;
+}
+
+.footer {
+    color: #1c9ad6;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.card-text {
+    padding: 5px;
+}
+
+.card-header {
+    font-weight: 700;
+    background-color: #fff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.custom-image {
+    padding: 15px;
+}
